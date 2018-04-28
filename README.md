@@ -1,6 +1,6 @@
 # SOPT_Seminar04
 
-## 
+## 실습
 ![default](https://user-images.githubusercontent.com/26498433/39398029-f16105ee-4b42-11e8-9b6d-65465d27ec2a.JPG)
 
 ## Server info
